@@ -5,3 +5,7 @@
 .text-gray{
     color: gray;
 }
+
+.flex-start {
+    justify-content: start;
+}
