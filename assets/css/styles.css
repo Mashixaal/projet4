@@ -9,3 +9,7 @@
 .flex-start {
     justify-content: start;
 }
+
+.flex {
+    display: flex;
+}
